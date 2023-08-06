@@ -10,7 +10,8 @@
   ## Node, Inquirer.
 
   # Credits
-  ## I completed this project with the help of a tutor.
+  ## I completed this project with the help of a tutor. 
+  ## https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide This link was used to decide what prompts should be given.
 
   # License
   ## TBD.
